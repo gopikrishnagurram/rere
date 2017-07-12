@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pictures xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://recognize.im/schema/2012"
+	xsi:schemaLocation="http://recognize.im/schema/2012 http://recognize.im/schema/2012/1.0/schema.xsd">
+
+
+	<picture>
+		<id>1</id>
+		<url>https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAh8AAAAJDMxNzFhNWJmLTZjN2MtNDFmOS1iMDYwLTgyYzlhYWNlNGM4OQ.jpg
+		</url>
+		<name>gopikrishna.jpg</name>
+	</picture>
+	<picture>
+		<id>1</id>
+		<url>https://lh6.googleusercontent.com/-ql0XAgHTpAs/AAAAAAAAAAI/AAAAAAAAACQ/8_PP6Hc3XYA/photo.jpg
+		</url>
+		<name>Shekhar.jpg</name>
+	</picture>
